@@ -1,3 +1,6 @@
+#Abu Hasnat Hasib
+#CIS 1051
+
 #valid character- a,e,i,o,u,p,k,h,l,m,n,w
 
 def main():
